@@ -2,4 +2,6 @@ PDBench: A benchmarking tool for evaluating protein sequence design methods.
 ProteoGAN: A conditional GAN model for de novo protein design, leveraging hierarchical Gene Ontology (GO) labels to generate functionally diverse protein sequences.
 Afpdb: A high-performance Python package for AI-driven protein design, enabling fast and efficient structure manipulation, residue selection, and visualization.
 PyFoldX: A Python interface for FoldX enabling protein structure analysis, mutation modeling, and energy calculations with multi-conformation support.
+SBILib: A Python package for structural bioinformatics, enabling protein modeling, loop grafting, and analysis of macromolecular interactions.
+
 
