@@ -1,3 +1,4 @@
 PDBench: A benchmarking tool for evaluating protein sequence design methods.
 ProteoGAN: A conditional GAN model for de novo protein design, leveraging hierarchical Gene Ontology (GO) labels to generate functionally diverse protein sequences.
+Afpdb: A high-performance Python package for AI-driven protein design, enabling fast and efficient structure manipulation, residue selection, and visualization.
 
