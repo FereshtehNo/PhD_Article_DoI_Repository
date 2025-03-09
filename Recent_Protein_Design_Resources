@@ -5,7 +5,7 @@ PyFoldX: A Python interface for FoldX enabling protein structure analysis, mutat
 SBILib: A Python package for structural bioinformatics, enabling protein modeling, loop grafting, and analysis of macromolecular interactions.
 DDGemb: A Transformer-based deep learning model for predicting protein stability changes (ΔΔG) upon mutations, utilizing ESM2 embeddings for accurate ΔΔG estimation.
 ProteinMAE: A self-supervised transformer-based model for protein surface representation, utilizing masked autoencoders to enhance protein interaction predictions, binding site identification, and ligand-pocket classification with significantly reduced computational cost.
-
+MapTurns: A web server for mapping beta-turn structures, side-chain interactions, and hydrogen bonding in proteins, enabling structural analysis and motif-based protein design.
 
 
 
