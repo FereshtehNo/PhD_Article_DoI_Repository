@@ -7,7 +7,8 @@ DDGemb: A Transformer-based deep learning model for predicting protein stability
 ProteinMAE: A self-supervised transformer-based model for protein surface representation, utilizing masked autoencoders to enhance protein interaction predictions, binding site identification, and ligand-pocket classification with significantly reduced computational cost.
 MapTurns: A web server for mapping beta-turn structures, side-chain interactions, and hydrogen bonding in proteins, enabling structural analysis and motif-based protein design.
 AbFlex: A deep learning-based model for antibody CDR design, utilizing equivariant graph neural networks (EGNN) and data augmentation to predict optimal CDR structures and sequences with improved antigen binding.
-HELM-GPT: A de novo macrocyclic peptide design framework leveraging HELM representation and generative transformers
+HELM-GPT: A de novo macrocyclic peptide design framework leveraging HELM representation and generative transformers.
+Surfaces: A fast and customizable tool for quantifying and visualizing molecular interactions in proteins and ligands.
 
 
 
