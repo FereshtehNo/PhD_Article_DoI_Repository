@@ -9,6 +9,7 @@ MapTurns: A web server for mapping beta-turn structures, side-chain interactions
 AbFlex: A deep learning-based model for antibody CDR design, utilizing equivariant graph neural networks (EGNN) and data augmentation to predict optimal CDR structures and sequences with improved antigen binding.
 HELM-GPT: A de novo macrocyclic peptide design framework leveraging HELM representation and generative transformers.
 Surfaces: A fast and customizable tool for quantifying and visualizing molecular interactions in proteins and ligands.
+FAPM: A multimodal deep learning model for functional annotation of proteins, integrating protein sequence modeling with natural language generation.
 
 
 
