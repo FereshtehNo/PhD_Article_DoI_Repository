@@ -10,6 +10,7 @@ AbFlex: A deep learning-based model for antibody CDR design, utilizing equivaria
 HELM-GPT: A de novo macrocyclic peptide design framework leveraging HELM representation and generative transformers.
 Surfaces: A fast and customizable tool for quantifying and visualizing molecular interactions in proteins and ligands.
 FAPM: A multimodal deep learning model for functional annotation of proteins, integrating protein sequence modeling with natural language generation.
+OpenDock: A PyTorch-based open-source framework for protein-ligand docking and modeling, offering flexible sampling strategies, customizable scoring functions, and constraint-based docking.
 
 
 
