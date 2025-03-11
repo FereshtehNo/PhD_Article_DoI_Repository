@@ -12,6 +12,15 @@ Surfaces: A fast and customizable tool for quantifying and visualizing molecular
 FAPM: A multimodal deep learning model for functional annotation of proteins, integrating protein sequence modeling with natural language generation.
 OpenDock: A PyTorch-based open-source framework for protein-ligand docking and modeling, offering flexible sampling strategies, customizable scoring functions, and constraint-based docking.
 DDAffinity:  A graph-based neural network for predicting binding affinity changes (ΔΔG) upon multiple point mutations, leveraging 3D protein structures and k-nearest neighbor graphs.
+CProMG: A controllable protein-oriented molecule generation framework for de novo drug design.
+
+
+
+
+
+
+
+
 
 
 
