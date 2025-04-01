@@ -13,9 +13,9 @@ FAPM: A multimodal deep learning model for functional annotation of proteins, in
 OpenDock: A PyTorch-based open-source framework for protein-ligand docking and modeling, offering flexible sampling strategies, customizable scoring functions, and constraint-based docking.
 DDAffinity:  A graph-based neural network for predicting binding affinity changes (ΔΔG) upon multiple point mutations, leveraging 3D protein structures and k-nearest neighbor graphs.
 CProMG: A controllable protein-oriented molecule generation framework for de novo drug design.
-DistilProtBert: A distilled protein language model for efficient protein sequence analysis, distinguishing real proteins from shuffled counterparts with high accuracy.
+DistilProtBert: A distilled protein language model for efficient protein sequence analysis, accurately distinguishing real proteins from shuffled counterparts.
 DeepMainmast: Utilizes deep learning to detect amino acid and atom types within cryo-EM maps, enhancing the accuracy of main-chain tracing.
-DAQ Score: Identify Potential Misaligned residues in PDB
+DAQ Score: Identify Potential Misaligned residues in PDB.
 
 
 
