@@ -15,6 +15,7 @@ DDAffinity:  A graph-based neural network for predicting binding affinity change
 CProMG: A controllable protein-oriented molecule generation framework for de novo drug design.
 DistilProtBert: A distilled protein language model for efficient protein sequence analysis, distinguishing real proteins from shuffled counterparts with high accuracy.
 DeepMainmast: Utilizes deep learning to detect amino acid and atom types within cryo-EM maps, enhancing the accuracy of main-chain tracing.
+DAQ Score: Identify Potential Misaligned residues in PDB
 
 
 
