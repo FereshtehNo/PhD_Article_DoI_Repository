@@ -14,6 +14,7 @@ OpenDock: A PyTorch-based open-source framework for protein-ligand docking and m
 DDAffinity:  A graph-based neural network for predicting binding affinity changes (ΔΔG) upon multiple point mutations, leveraging 3D protein structures and k-nearest neighbor graphs.
 CProMG: A controllable protein-oriented molecule generation framework for de novo drug design.
 DistilProtBert: A distilled protein language model for efficient protein sequence analysis, distinguishing real proteins from shuffled counterparts with high accuracy.
+DeepMainmast:
 
 
 
