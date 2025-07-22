@@ -16,7 +16,7 @@ CProMG: A controllable protein-oriented molecule generation framework for de nov
 DistilProtBert: A distilled protein language model for efficient protein sequence analysis, accurately distinguishing real proteins from shuffled counterparts.
 DeepMainmast: Utilizes deep learning to detect amino acid and atom types within cryo-EM maps, enhancing the accuracy of main-chain tracing.
 DAQ Score: Identify Potential Misaligned residues in PDB.
-
+Boltz-2:https://colab.research.google.com/github/whis9/boltz2/blob/main/boltz2.ipynb
 
 
 
